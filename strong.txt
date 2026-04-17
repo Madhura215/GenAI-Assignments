@@ -1,0 +1,5 @@
+Name: Rahul Sharma
+Skills: Python, Machine Learning, SQL, NLP
+Experience: 3 years
+Projects: NLP chatbot
+Education: B.Tech CS

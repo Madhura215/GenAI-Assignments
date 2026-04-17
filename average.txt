@@ -1,0 +1,5 @@
+Name: Priya Singh
+Skills: Python, SQL
+Experience: 1 year
+Projects: Data analysis
+Education: B.Sc IT
